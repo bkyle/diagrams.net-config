@@ -1,0 +1,49 @@
+{
+  "customColorSchemes": [
+    [
+      { "fill": "#edf5ff", "stroke": "none", "font":"black" },
+      { "fill": "#d0e2ff", "stroke": "none", "font":"black" },
+      { "fill": "#a6c8ff", "stroke": "none", "font":"white" },
+      { "fill": "#78a9ff", "stroke": "none", "font":"white" },
+      { "fill": "#4589ff", "stroke": "none", "font":"white" },
+      { "fill": "#0f62fe", "stroke": "none", "font":"white" },
+      { "fill": "#0043ce", "stroke": "none", "font":"white" },
+      { "fill": "#002d9c", "stroke": "none", "font":"white" },
+      { "fill": "#001d6c", "stroke": "none", "font":"white" },
+      { "fill": "#001141", "stroke": "none", "font":"white" }
+    ], [
+      { "fill": "#f6f2ff", "stroke": "none", "font":"black" },
+      { "fill": "#e8daff", "stroke": "none", "font":"black" },
+      { "fill": "#d4bbff", "stroke": "none", "font":"white" },
+      { "fill": "#be95ff", "stroke": "none", "font":"white" },
+      { "fill": "#a56eff", "stroke": "none", "font":"white" },
+      { "fill": "#8a3ffc", "stroke": "none", "font":"white" },
+      { "fill": "#6929c4", "stroke": "none", "font":"white" },
+      { "fill": "#491d8b", "stroke": "none", "font":"white" },
+      { "fill": "#31135e", "stroke": "none", "font":"white" },
+      { "fill": "#1c0f30", "stroke": "none", "font":"white" }
+    ], [
+      { "fill": "#e5f6ff", "stroke": "none", "font":"black" },
+      { "fill": "#bae6ff", "stroke": "none", "font":"black" },
+      { "fill": "#82cfff", "stroke": "none", "font":"white" },
+      { "fill": "#33b1ff", "stroke": "none", "font":"white" },
+      { "fill": "#1192e8", "stroke": "none", "font":"white" },
+      { "fill": "#0072c3", "stroke": "none", "font":"white" },
+      { "fill": "#00539a", "stroke": "none", "font":"white" },
+      { "fill": "#003a6d", "stroke": "none", "font":"white" },
+      { "fill": "#012749", "stroke": "none", "font":"white" },
+      { "fill": "#1c0f30", "stroke": "none", "font":"white" }
+    ], [
+      { "fill": "#d9fbfb", "stroke": "none", "font":"black" },
+      { "fill": "#9ef0f0", "stroke": "none", "font":"black" },
+      { "fill": "#3ddbd9", "stroke": "none", "font":"white" },
+      { "fill": "#08bdba", "stroke": "none", "font":"white" },
+      { "fill": "#009d9a", "stroke": "none", "font":"white" },
+      { "fill": "#007d79", "stroke": "none", "font":"white" },
+      { "fill": "#005d5d", "stroke": "none", "font":"white" },
+      { "fill": "#004144", "stroke": "none", "font":"white" },
+      { "fill": "#022b30", "stroke": "none", "font":"white" },
+      { "fill": "#081a1c", "stroke": "none", "font":"white" }
+    ]
+  ]
+}
